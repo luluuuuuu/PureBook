@@ -1,0 +1,334 @@
+-- Merging decision tree log ---
+manifest
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:2:1-115:12
+	package
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:3:5-44
+		INJECTED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml
+	android:versionName
+		INJECTED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml
+	xmlns:android
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:2:11-69
+	android:versionCode
+		INJECTED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml
+uses-permission#android.permission.WRITE_EXTERNAL_STORAGE
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:5:5-81
+MERGED from [com.github.zhaokaiqiang.klog:library:1.3.0] /Users/chrischen/.android/build-cache/2a8def7325e02bc723bf04848dc8faa67aa7c19b/output/AndroidManifest.xml:11:5-81
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:5:22-78
+uses-permission#android.permission.INTERNET
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:6:5-67
+MERGED from [cn.leancloud.android:avoscloud-sns:v3.9] /Users/chrischen/.android/build-cache/052bd1ad3998b1755a1a88f34298d5479911332e/output/AndroidManifest.xml:11:5-67
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:6:22-64
+uses-permission#android.permission.ACCESS_NETWORK_STATE
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:7:5-79
+MERGED from [cn.leancloud.android:avoscloud-sns:v3.9] /Users/chrischen/.android/build-cache/052bd1ad3998b1755a1a88f34298d5479911332e/output/AndroidManifest.xml:14:5-79
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:7:22-76
+uses-permission#android.permission.READ_PHONE_STATE
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:8:5-75
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:8:22-72
+uses-permission#android.permission.ACCESS_WIFI_STATE
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:9:5-76
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:9:22-73
+uses-permission#android.permission.RECEIVE_BOOT_COMPLETED
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:10:5-81
+MERGED from [cn.leancloud.android:avoscloud-sns:v3.9] /Users/chrischen/.android/build-cache/052bd1ad3998b1755a1a88f34298d5479911332e/output/AndroidManifest.xml:12:5-81
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:10:22-78
+uses-permission#android.permission.VIBRATE
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:11:5-66
+MERGED from [cn.leancloud.android:avoscloud-sns:v3.9] /Users/chrischen/.android/build-cache/052bd1ad3998b1755a1a88f34298d5479911332e/output/AndroidManifest.xml:13:5-66
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:11:22-63
+uses-permission#android.permission.CAMERA
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:12:5-65
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:12:22-62
+uses-permission#android.permission.READ_LOGS
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:13:5-68
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:13:22-65
+uses-permission#android.permission.ACCESS_COARSE_LOCATION
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:14:5-81
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:14:22-78
+uses-permission#android.permission.ACCESS_FINE_LOCATION
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:15:5-79
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:15:22-76
+uses-permission#android.permission.CHANGE_WIFI_STATE
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:16:5-76
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:16:22-73
+uses-permission#android.permission.ACCESS_LOCATION_EXTRA_COMMANDS
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:17:5-89
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:17:22-86
+application
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:19:5-113:19
+MERGED from [:neuRefresh:] /Users/chrischen/.android/build-cache/04ec8bd04bbca430afacfd94e4fad03011e6e256/output/AndroidManifest.xml:11:5-15:19
+MERGED from [:circualreveal-release:] /Users/chrischen/.android/build-cache/ee5225342ed8a2cd94cb9ee19ffd6308a1a06a88/output/AndroidManifest.xml:10:5-20
+MERGED from [com.github.afollestad.material-dialogs:commons:0.8.5.8] /Users/chrischen/.android/build-cache/392314ae0f408d7f1db0ca54c2e5a67c96bc2be0/output/AndroidManifest.xml:12:5-20
+MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.8] /Users/chrischen/.android/build-cache/8e68daa74434d1c07f56190b437ac5cf7ee1d2f7/output/AndroidManifest.xml:13:5-20
+MERGED from [com.android.support:palette-v7:23.3.0] /Users/chrischen/.android/build-cache/043da25b7c798a8451e7894891e4eedb72be9f5a/output/AndroidManifest.xml:22:5-23:19
+MERGED from [com.android.support:cardview-v7:23.3.0] /Users/chrischen/.android/build-cache/3399e5a8bbe95fbe4881f25778e790ff941da4d1/output/AndroidManifest.xml:22:5-20
+MERGED from [com.github.castorflex.smoothprogressbar:library-circular:1.2.0] /Users/chrischen/.android/build-cache/6a970b2808588796b013a92549e91f991cdc152c/output/AndroidManifest.xml:12:5-20
+MERGED from [com.zhy:percent-support-extends:1.1.1] /Users/chrischen/.android/build-cache/faa1ba2161f53db085f1da3d857699510881b5c9/output/AndroidManifest.xml:11:5-14:19
+MERGED from [net.frakbot:jumpingbeans:1.3.0] /Users/chrischen/.android/build-cache/4bdc45aaa36aa7c977d0ab19c0f2f5d5bb6d89c7/output/AndroidManifest.xml:11:5-20
+MERGED from [com.hannesdorfmann.mosby:viewstate:2.0.0] /Users/chrischen/.android/build-cache/5e8133f593c3df641f98bddc4567c34eb97fccb6/output/AndroidManifest.xml:11:5-20
+MERGED from [com.hannesdorfmann.mosby:mvp:2.0.0] /Users/chrischen/.android/build-cache/ea6632080313c49bc754983c91f1ab619abadd6b/output/AndroidManifest.xml:11:5-20
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /Users/chrischen/.android/build-cache/6a635164d3ed93768f18b9142a18e537b6a91706/output/AndroidManifest.xml:9:5-20
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] /Users/chrischen/.android/build-cache/55d5e7e373ece3d7f7a3deb2f7a6e783dcdcddca/output/AndroidManifest.xml:12:5-20
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/chrischen/.android/build-cache/c4d9284ab6a65926ef7682109f9199ddc460281b/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:design:23.3.0] /Users/chrischen/.android/build-cache/086d86e11ba7082d89026e6b12761b0da4a89851/output/AndroidManifest.xml:22:5-20
+MERGED from [com.github.Blankeer:baseadapterhelper:1.0] /Users/chrischen/.android/build-cache/362ec063b2483e7c21c1fd78ac537973fdbdddad/output/AndroidManifest.xml:11:5-14:19
+MERGED from [com.github.lsjwzh.RecyclerViewPager:lib:v1.1.0-beta5] /Users/chrischen/.android/build-cache/4319a9a5ac8d0c895e7bcd465a2adb2b19c60c1c/output/AndroidManifest.xml:11:5-12:19
+MERGED from [me.imid.swipebacklayout.lib:library:1.0.0] /Users/chrischen/.android/build-cache/48104356289c33331e1557c685fabeb2a3b46669/output/AndroidManifest.xml:11:5-20
+MERGED from [com.github.Blankeer:ScrollHideView:V0.2] /Users/chrischen/.android/build-cache/421d829ae982b19de78863081cffbaf467b43f75/output/AndroidManifest.xml:12:5-13:19
+MERGED from [com.github.jd-alexander:LikeButton:0.1.8] /Users/chrischen/.android/build-cache/6a3d8c3c42b20b834e4dd3d2a938af74e859e2e0/output/AndroidManifest.xml:11:5-15:19
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/chrischen/.android/build-cache/7b707cf006dbe45445fada185d7f64774dec4605/output/AndroidManifest.xml:9:5-20
+MERGED from [net.qiujuer.genius:blur:1.5.0] /Users/chrischen/.android/build-cache/be2a861b9aabe68ec9fb5918a880a5f28c7d012a/output/AndroidManifest.xml:11:5-13:38
+MERGED from [com.zhy:changeskin:4.0.2] /Users/chrischen/.android/build-cache/cc1483639967fc3abc70e86c511524382b73faa4/output/AndroidManifest.xml:11:5-14:19
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/chrischen/.android/build-cache/57b1a6415c2ccdd58e6749304abe4943c52775a3/output/AndroidManifest.xml:25:5-20
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/chrischen/.android/build-cache/2f58b668ac47a0a8ff2db7892b139931f6938747/output/AndroidManifest.xml:7:5-20
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/chrischen/.android/build-cache/4898e4b693d86067ba21d1cd0ed632b370a0e2ba/output/AndroidManifest.xml:7:5-20
+MERGED from [com.veinhorn.tagview:library:1.0.4] /Users/chrischen/.android/build-cache/172120b7f1b4610be2e477eb27c5a2cf383c862b/output/AndroidManifest.xml:11:5-14:19
+MERGED from [com.wefika:flowlayout:0.4.1] /Users/chrischen/.android/build-cache/707028aa96c7984dd3fe412ca0b615b4e3deebed/output/AndroidManifest.xml:11:5-20
+MERGED from [com.android.support:support-v4:23.3.0] /Users/chrischen/.android/build-cache/4860fc80fb0a5672ad861874a707420fe28838f4/output/AndroidManifest.xml:22:5-20
+	android:label
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:23:9-41
+	android:supportsRtl
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:24:9-35
+	android:allowBackup
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:21:9-35
+	android:icon
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:22:9-41
+	android:theme
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:25:9-40
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:20:9-73
+meta-data#com.amap.api.v2.apikey
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:26:9-28:64
+	android:value
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:28:13-61
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:27:13-50
+meta-data#UMENG_APPKEY
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:29:9-31:57
+	android:value
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:31:13-54
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:30:13-40
+activity#com.purebook.purebook_android.core.main.MainActivity_
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:33:9-37:59
+	android:label
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:36:13-45
+	android:configChanges
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:35:13-94
+	android:theme
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:37:13-56
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:34:13-81
+activity#com.mob.tools.MobUIShell
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:38:9-59:20
+	android:screenOrientation
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:41:13-49
+	android:windowSoftInputMode
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:43:13-67
+	android:configChanges
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:40:13-74
+	android:theme
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:42:13-72
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:39:13-52
+intent-filter#android.intent.action.VIEW+android.intent.category.BROWSABLE+android.intent.category.DEFAULT
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:44:13-51:29
+data
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:45:17-60
+	android:scheme
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:45:23-57
+action#android.intent.action.VIEW
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:47:17-69
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:47:25-66
+category#android.intent.category.BROWSABLE
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:49:17-78
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:49:27-75
+category#android.intent.category.DEFAULT
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:50:17-76
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:50:27-73
+intent-filter#android.intent.category.DEFAULT+com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:54:13-58:29
+action#com.sina.weibo.sdk.action.ACTION_SDK_REQ_ACTIVITY
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:55:17-92
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:55:25-89
+activity#com.purebook.purebook_android.wxapi.WXEntryActivity
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:60:9-65:75
+	android:screenOrientation
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:64:13-49
+	android:exported
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:63:13-36
+	android:configChanges
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:62:13-74
+	android:theme
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:65:13-72
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:61:13-79
+activity#com.purebook.purebook_android.core.feedback.FeedActivity
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:66:9-68:53
+	android:theme
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:68:13-50
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:67:13-84
+service#com.avos.avoscloud.PushService
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:70:9-72:39
+	android:exported
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:72:13-36
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:71:13-58
+receiver#com.avos.avoscloud.AVBroadcastReceiver
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:74:9-80:20
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:74:19-72
+intent-filter#android.intent.action.BOOT_COMPLETED+android.intent.action.USER_PRESENT+android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:75:13-79:29
+action#android.intent.action.BOOT_COMPLETED
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:76:17-79
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:76:25-76
+action#android.intent.action.USER_PRESENT
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:77:17-77
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:77:25-74
+action#android.net.conn.CONNECTIVITY_CHANGE
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:78:17-79
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:78:25-76
+activity#com.purebook.purebook_android.core.login.LoginActivity_
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:82:9-87:20
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:82:19-89
+intent-filter#android.intent.action.MAIN+android.intent.category.LAUNCHER
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:83:13-86:29
+action#android.intent.action.MAIN
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:84:17-69
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:84:25-66
+category#android.intent.category.LAUNCHER
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:85:17-77
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:85:27-74
+activity#com.purebook.purebook_android.core.register.RegisterActivity_
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:90:9-97
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:90:19-95
+activity#com.purebook.purebook_android.core.details.DetailsActivity_
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:91:9-93:53
+	android:theme
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:93:13-50
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:92:13-87
+activity#com.purebook.purebook_android.core.search.SearchResActivity_
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:94:9-97
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:94:19-94
+activity#com.purebook.purebook_android.core.random.RandomActivity_
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:95:9-94
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:95:19-91
+activity#com.purebook.purebook_android.core.scan.CommonScanActivity_
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:96:9-96
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:96:19-93
+activity#com.purebook.purebook_android.test.TestCurstomImageviewActivity
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:97:9-100
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:97:19-97
+activity#com.purebook.purebook_android.core.comment.CommentActivity_
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:98:9-100:53
+	android:theme
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:100:13-50
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:99:13-87
+activity#com.purebook.purebook_android.core.bookimage.BookImageActivity_
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:101:9-100
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:101:19-97
+activity#com.purebook.purebook_android.core.userhome.UserHomeActivity_
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:102:9-106:20
+	android:theme
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:104:13-50
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:103:13-89
+service#com.amap.api.location.APSService
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:108:9-68
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:108:18-65
+activity#com.purebook.purebook_android.core.settings.SettingsActivity_
+ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:110:9-112:53
+	android:theme
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:112:13-50
+	android:name
+		ADDED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml:111:13-89
+uses-sdk
+INJECTED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml reason: use-sdk injection requested
+MERGED from [com.android.support:multidex:1.0.1] /Users/chrischen/.android/build-cache/fc3329a185a38a955a44c51594c68162f99fdae4/output/AndroidManifest.xml:18:5-42
+MERGED from [:neuRefresh:] /Users/chrischen/.android/build-cache/04ec8bd04bbca430afacfd94e4fad03011e6e256/output/AndroidManifest.xml:7:5-9:41
+MERGED from [:circualreveal-release:] /Users/chrischen/.android/build-cache/ee5225342ed8a2cd94cb9ee19ffd6308a1a06a88/output/AndroidManifest.xml:6:5-8:41
+MERGED from [cn.leancloud.android:avoscloud-push:v3.13.6] /Users/chrischen/.android/build-cache/0e600323904f9f4a3a9a118fdcb39a95e7aa1a1a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.afollestad.material-dialogs:commons:0.8.5.8] /Users/chrischen/.android/build-cache/392314ae0f408d7f1db0ca54c2e5a67c96bc2be0/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.afollestad.material-dialogs:core:0.8.5.8] /Users/chrischen/.android/build-cache/8e68daa74434d1c07f56190b437ac5cf7ee1d2f7/output/AndroidManifest.xml:8:5-11:75
+MERGED from [com.android.support:palette-v7:23.3.0] /Users/chrischen/.android/build-cache/043da25b7c798a8451e7894891e4eedb72be9f5a/output/AndroidManifest.xml:20:5-43
+MERGED from [com.android.support:cardview-v7:23.3.0] /Users/chrischen/.android/build-cache/3399e5a8bbe95fbe4881f25778e790ff941da4d1/output/AndroidManifest.xml:20:5-43
+MERGED from [cn.leancloud.android:avoscloud-feedback:v3.9] /Users/chrischen/.android/build-cache/1b5aa392aaafdfe4ed982134fa715c2358f9467d/output/AndroidManifest.xml:7:5-9:41
+MERGED from [cn.leancloud.android:avoscloud-sns:v3.9] /Users/chrischen/.android/build-cache/052bd1ad3998b1755a1a88f34298d5479911332e/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.zhaokaiqiang.klog:library:1.3.0] /Users/chrischen/.android/build-cache/2a8def7325e02bc723bf04848dc8faa67aa7c19b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.castorflex.smoothprogressbar:library-circular:1.2.0] /Users/chrischen/.android/build-cache/6a970b2808588796b013a92549e91f991cdc152c/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.zhy:percent-support-extends:1.1.1] /Users/chrischen/.android/build-cache/faa1ba2161f53db085f1da3d857699510881b5c9/output/AndroidManifest.xml:7:5-9:41
+MERGED from [net.frakbot:jumpingbeans:1.3.0] /Users/chrischen/.android/build-cache/4bdc45aaa36aa7c977d0ab19c0f2f5d5bb6d89c7/output/AndroidManifest.xml:7:5-9:41
+MERGED from [io.reactivex:rxandroid:1.1.0] /Users/chrischen/.android/build-cache/754dc6ce9846fe9bc955e46014851a63a904291e/output/AndroidManifest.xml:19:5-43
+MERGED from [com.hannesdorfmann.mosby:viewstate:2.0.0] /Users/chrischen/.android/build-cache/5e8133f593c3df641f98bddc4567c34eb97fccb6/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.hannesdorfmann.mosby:mvp:2.0.0] /Users/chrischen/.android/build-cache/ea6632080313c49bc754983c91f1ab619abadd6b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.iwgang:familiarrecyclerview:1.2.3] /Users/chrischen/.android/build-cache/2b1ebbbee12ace5e5576036d6edc129dcfa8b44b/output/AndroidManifest.xml:6:5-8:41
+MERGED from [de.hdodenhof:circleimageview:2.0.0] /Users/chrischen/.android/build-cache/6a635164d3ed93768f18b9142a18e537b6a91706/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.melnykov:floatingactionbutton:1.3.0] /Users/chrischen/.android/build-cache/55d5e7e373ece3d7f7a3deb2f7a6e783dcdcddca/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.miguelcatalan:materialsearchview:1.4.0] /Users/chrischen/.android/build-cache/c4d9284ab6a65926ef7682109f9199ddc460281b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:design:23.3.0] /Users/chrischen/.android/build-cache/086d86e11ba7082d89026e6b12761b0da4a89851/output/AndroidManifest.xml:20:5-43
+MERGED from [jp.wasabeef:recyclerview-animators:2.2.0] /Users/chrischen/.android/build-cache/cee72763665f4277302a59893a159be9c2e5f674/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.Blankeer:HoldScaleImageView:0.1.5] /Users/chrischen/.android/build-cache/8edd9956bf66c96e2d90517bdd9f556765632ad3/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Blankeer:baseadapterhelper:1.0] /Users/chrischen/.android/build-cache/362ec063b2483e7c21c1fd78ac537973fdbdddad/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.lsjwzh.RecyclerViewPager:lib:v1.1.0-beta5] /Users/chrischen/.android/build-cache/4319a9a5ac8d0c895e7bcd465a2adb2b19c60c1c/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:recyclerview-v7:23.3.0] /Users/chrischen/.android/build-cache/1eee031d672115ee1aecde48ec03b4088dfbce34/output/AndroidManifest.xml:20:5-43
+MERGED from [me.imid.swipebacklayout.lib:library:1.0.0] /Users/chrischen/.android/build-cache/48104356289c33331e1557c685fabeb2a3b46669/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.github.Blankeer:ScrollHideView:V0.2] /Users/chrischen/.android/build-cache/421d829ae982b19de78863081cffbaf467b43f75/output/AndroidManifest.xml:8:5-10:41
+MERGED from [com.github.jd-alexander:LikeButton:0.1.8] /Users/chrischen/.android/build-cache/6a3d8c3c42b20b834e4dd3d2a938af74e859e2e0/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.orhanobut:dialogplus:1.11] /Users/chrischen/.android/build-cache/0893b267c5cd32e657e961ef9447d2ef60d5da00/output/AndroidManifest.xml:6:5-8:41
+MERGED from [com.ms-square:expandableTextView:0.1.4] /Users/chrischen/.android/build-cache/7b707cf006dbe45445fada185d7f64774dec4605/output/AndroidManifest.xml:5:5-7:41
+MERGED from [com.commit451:PhotoView:1.2.4] /Users/chrischen/.android/build-cache/f931bded67c916d71ab90bdb715215a0db13f362/output/AndroidManifest.xml:8:5-10:41
+MERGED from [me.zhanghai.android.materialprogressbar:library:1.1.5] /Users/chrischen/.android/build-cache/055eb62841c4b960b54933565ea2c49cfdfb6feb/output/AndroidManifest.xml:12:5-14:41
+MERGED from [net.qiujuer.genius:blur:1.5.0] /Users/chrischen/.android/build-cache/be2a861b9aabe68ec9fb5918a880a5f28c7d012a/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.zhy:changeskin:4.0.2] /Users/chrischen/.android/build-cache/cc1483639967fc3abc70e86c511524382b73faa4/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:appcompat-v7:23.3.0] /Users/chrischen/.android/build-cache/57b1a6415c2ccdd58e6749304abe4943c52775a3/output/AndroidManifest.xml:21:5-23:78
+MERGED from [com.android.support:animated-vector-drawable:23.3.0] /Users/chrischen/.android/build-cache/2f58b668ac47a0a8ff2db7892b139931f6938747/output/AndroidManifest.xml:5:5-44
+MERGED from [com.android.support:support-vector-drawable:23.3.0] /Users/chrischen/.android/build-cache/4898e4b693d86067ba21d1cd0ed632b370a0e2ba/output/AndroidManifest.xml:5:5-43
+MERGED from [org.simple:androideventbus:1.0.5.1] /Users/chrischen/.android/build-cache/0d49645f488aaef7b8483ed0624fd94ba0ff332c/output/AndroidManifest.xml:7:5-9:40
+MERGED from [com.veinhorn.tagview:library:1.0.4] /Users/chrischen/.android/build-cache/172120b7f1b4610be2e477eb27c5a2cf383c862b/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.wefika:flowlayout:0.4.1] /Users/chrischen/.android/build-cache/707028aa96c7984dd3fe412ca0b615b4e3deebed/output/AndroidManifest.xml:7:5-9:41
+MERGED from [com.android.support:support-v4:23.3.0] /Users/chrischen/.android/build-cache/4860fc80fb0a5672ad861874a707420fe28838f4/output/AndroidManifest.xml:20:5-43
+	tools:overrideLibrary
+		ADDED from [com.github.afollestad.material-dialogs:core:0.8.5.8] /Users/chrischen/.android/build-cache/8e68daa74434d1c07f56190b437ac5cf7ee1d2f7/output/AndroidManifest.xml:11:9-72
+	android:targetSdkVersion
+		INJECTED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml
+	android:minSdkVersion
+		INJECTED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml
+		INJECTED from /Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/src/main/AndroidManifest.xml

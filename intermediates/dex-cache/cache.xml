@@ -1,0 +1,140 @@
+<?xml version="1.0" encoding="utf-8"?>
+<items version="2" >
+
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/MobTools(1).jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="b0a5b7d5c0dbf3cdff153bcb8529ee9922b900cb">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobTools(1)_6b544cc3de4c5121986c6e9d6eeef08259e4970a/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/ShareSDK-QZone-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="d62b83a8630b38e7d6eb5681b2a456de319174c5">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QZone-2.7.1_01caec57807b970d6c4a5f2706ec4fc4c89abe27/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/universal-image-loader-1.9.5.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="442dbfb517b9ab5cb5c6da7ebf8cc28ec5bd0375">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/universal-image-loader-1.9.5_b668cad2bd258aa6ccd842a5dcb99a700a143a21/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/ShareSDK-Wechat-Core-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="f895897bef0b27f8ec2bfcb66dcc1c647526a6c4">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Core-2.7.1_6f31d14f01844462ed226ec2e6f848f1061e4c77/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/ShareSDK-SinaWeibo-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="960cfbebbdb7d9217ab0f197f118701566e62530">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-SinaWeibo-2.7.1_5dfa1d7e78c4ba55fb15917747a2c7e501f6a074/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/AMap_2DMap_V2.8.1_20160202.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="0109d970ab16fff07a9a2f22149aecdc1195a4c2">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_2DMap_V2.8.1_20160202_60e854ffea8c2fef9486591ff2ec758e2af1ce98/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/.android/build-cache/04ec8bd04bbca430afacfd94e4fad03011e6e256/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="660bf472702eb211ecd05ef9a44b850460995f3b">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_2cde798bc2c57c63016b77050310e939bffd48a2/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/MobCommons(2).jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="a92affd250db7db5745e24040c572aede3fc356c">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/MobCommons(2)_4e4ac4a1b2638a6d648a5ade7335b52cd19d8d9b/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/ShareSDK-QQ-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="af14a98e3c652ede86109cd2afefafff0476e317">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-QQ-2.7.1_7e70f31af886c1ca4fab8d81a1d41dfa68da6b96/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/.android/build-cache/ee5225342ed8a2cd94cb9ee19ffd6308a1a06a88/output/jars/classes.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="2432c866a15c222ae649ae05640f8f77f849c0cd">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/10/classes_9e6284043f403d6bd3715dc302f0ac678f9a4aa7/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/ShareSDK-Wechat-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="04bbea1c0f4330ec171bea024a7939e91ce410f4">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-2.7.1_7c69652dbb6e566a2f3fedffe035d083a3695993/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/ShareSDK-Core-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="568bf47151e9f8a07551de821449c5d3b3466913">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Core-2.7.1_180498a16b75d6ea26b725334e1decbd8da0f5c1/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/AMap_Location_V2.4.0_20160308.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="dd8aedb3d0d87b92777ab997ec883427d88f379a">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/AMap_Location_V2.4.0_20160308_eed75ea8f9882d988b464f19272288d2687f0bab/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/ShareSDK-Wechat-Moments-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="4dfd085e620c0fdca6c0e298dc8962a0e7047db6">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Moments-2.7.1_ca1134732aa1b8d005a22e0ece9e2c74af6b4b76/classes.dex" />
+    </item>
+    <item
+        is-multidex="true"
+        jar="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/libs/ShareSDK-Wechat-Favorite-2.7.1.jar"
+        jumboMode="false"
+        optimize="true"
+        revision="25.0.0"
+        sha1="6055caa9910190861c3a4fc73c7fa8e909f24b26">
+        <dex dex="/Users/chrischen/Desktop/我爱学习/软件工程/项目文档/PureBook/app/build/intermediates/transforms/dex/debug/folders/1000/2/ShareSDK-Wechat-Favorite-2.7.1_098dbf7b36a38f054b01b3a6bd2b4878348836cb/classes.dex" />
+    </item>
+
+</items>
